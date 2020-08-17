@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:fontFamily">@font/donquixote</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="NumberPickerCustom">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/donquixote</item>
+        <item name="android:editTextColor">@color/orange</item>
+
+    </style>
+
+</resources>
